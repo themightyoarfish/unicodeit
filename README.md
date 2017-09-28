@@ -1,3 +1,8 @@
+# Fork of UnicodeIt adapted for Python 3
+
+I only edited `src/unicodeit.py` and `Automator/UnicodeItLatexFont2.workflow/`,
+it might have caused breakage in other parts.  ¯\\_(ツ)\_/¯
+
 # UnicodeIt
 
 Converts latex tags into unicode. Available online at www.unicodeit.net or as Automator script for the Mac.
